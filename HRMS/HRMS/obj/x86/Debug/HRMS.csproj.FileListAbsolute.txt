@@ -1,0 +1,13 @@
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\bin\Debug\HRMS.exe
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\bin\Debug\HRMS.pdb
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.homepage.resources
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.exe
+c:\users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.Employee_Info.resources
+C:\Users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.Project_Management.resources
+C:\Users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.employeemanagement.resources
+C:\Users\hp\documents\visual studio 2010\Projects\HRMS\HRMS\obj\x86\Debug\HRMS.Attendance.resources
